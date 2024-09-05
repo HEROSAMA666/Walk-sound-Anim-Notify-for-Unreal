@@ -2,9 +2,9 @@
 A simple Anim Notify for character walking sound
 
 
-Very easy to edit and customize:
-1.Add a new variable in .h file. Better decorated with some marcos like BlueprintReadWrite etc.
-2.Go to .cpp file and add new option in the Switch zone.
+Very easy to edit and customize:\n
+1.Add a new variable in .h file. Better decorated with some marcos like BlueprintReadWrite etc.\n
+2.Go to .cpp file and add new option in the Switch zone.\n
 
 
 Use:
