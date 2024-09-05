@@ -12,3 +12,6 @@ Use:
 2.Copy my code to replace the one you created just now.
 3.Compile after finish edit.
 4.You can use it in any animation asset.
+
+
+(Anim Notify could be copied and pasted in editor 🙃🙃🙃🙃🙃🙃)
